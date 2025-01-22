@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Orfey95
 - 👀 I’m interested in all (programming, DevOps)
-- 🌱 I’m currently learning DevOps
 
 ### 🔧 Technologies & Tools
 
